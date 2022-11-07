@@ -1,0 +1,51 @@
+main{
+    width: 980px;
+    height: 680px;
+    color: #add8e6;
+    margin: auto;
+}
+header{
+    height: 150px;
+    background-color: #f5f5dc;
+    
+}
+header img{
+    margin-left: 300px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+}
+
+nav{
+     height: 60px;
+     width: 980px;
+     background-color: #9acd32;
+}
+#nave{
+  display: inline-flex;
+}
+
+footer{
+    height: 100px;
+    width: 980px;
+    background-color:  steelblue;
+}
+article{
+    width: 580px;
+    float: right;
+    height: 390px;
+    background-color: black;
+
+}
+aside{
+    width: 400px;
+    height: 390px;
+    background-color: orange;
+    
+}
+
+a:hover{
+  color: #800080;
+}
